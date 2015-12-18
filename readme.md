@@ -2,7 +2,9 @@
 
 The holiday break is a great chance for you to get some rest as well as continue practicing Ruby! All the resources listed below are **optional**, but you're highly encouraged to take advantage of them in order to hit the ground running in Week 8.
 
-In addition, you should also spend some time revisiting your Project 1 to refactor your code and/or work on "stretch", or wish list, features.
+In addition, you should spend some time revisiting your Project 1 to refactor your code and/or work on "stretch", or wish list, features.
+
+Please also take a few minutes to submit a pull request to the <a href="https://github.com/sf-wdi-24/class-networking" target="_blank">class-networking</a> repo with your social media links and link to your portfolio site (rocketship icon) if it's live.
 
 ## Ruby Fundamentals
 
